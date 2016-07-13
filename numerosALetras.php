@@ -1,3 +1,5 @@
+<?php
+
 class Numerosaletras
 {
     var $decComoNumero = false;
